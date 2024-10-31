@@ -1,0 +1,105 @@
+# LANGUAGE French translation for SF Pages For Custom Posts plugin for WordPress.
+# Copyright (C) 2011 Grégory Viguier
+# Grégory Viguier, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sf-pfcp 0.2.1\n"
+"Report-Msgid-Bugs-To: http://scri.in/pfcp\n"
+"POT-Creation-Date: 2011-06-08 16:25+0100\n"
+"PO-Revision-Date: 2011-09-11 19:19+0100\n"
+"Last-Translator: Grégory Viguier\n"
+"Language-Team: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+
+#: sf-pfcp-admin.inc.php:23
+msgid "Pages for C. Posts"
+msgstr "Pages pour C. Posts"
+
+#: sf-pfcp-admin.inc.php:68
+msgid "%1$s page: %2$s"
+msgstr "Page des %1$s : %2$s"
+
+#: sf-pfcp-admin.inc.php:71
+msgid "%s per page: "
+msgstr "%s par page : "
+
+#: sf-pfcp-admin.inc.php:74
+msgid "Single Post"
+msgstr "Article"
+
+#: sf-pfcp-admin.inc.php:74
+msgid "Page"
+msgstr "Page"
+
+#: sf-pfcp-admin.inc.php:74
+msgid "Archive Page"
+msgstr "Page d'archive"
+
+#: sf-pfcp-admin.inc.php:74
+msgid "Category Page"
+msgstr "Page de catégorie"
+
+#: sf-pfcp-admin.inc.php:74
+msgid "Tag Page"
+msgstr "Page de Tag"
+
+#: sf-pfcp-admin.inc.php:74
+msgid "Taxonomy Page"
+msgstr "Page de Taxonomie"
+
+#: sf-pfcp-admin.inc.php:74
+msgid "Search Page"
+msgstr "Page de recherche"
+
+#: sf-pfcp-admin.inc.php:74
+msgid "Home Page (Posts Page)"
+msgstr "Page d'accueil (page d'articles)"
+
+#: sf-pfcp-admin.inc.php:74
+msgid "Attachment Page"
+msgstr "Page d'attachements"
+
+#: sf-pfcp-admin.inc.php:74
+msgid "Post Type Archive"
+msgstr "Archive de type de post"
+
+#: sf-pfcp-admin.inc.php:76
+msgid "Template: "
+msgstr "Affiché comme : "
+
+#: sf-pfcp-admin.inc.php:98
+msgid "Need some help? Check out the &laquo;Help&raquo; toggle at the top right of your screen."
+msgstr "Besoin d'aide? Jetez un oeil au bouton &raquo;Aide&laquo; en haut à droite de votre écran."
+
+#: sf-pfcp-admin.inc.php:131
+msgid "Post type page:"
+msgstr "Page du type de post : "
+
+#: sf-pfcp-admin.inc.php:132
+msgid "Choose witch page will display the custom post type. Don't choose the same page for two post types, it won't work."
+msgstr "Choisissez quelle page affichera votre type de post. Ne choisissez pas la même page pour deux types de post, cela ne fonctionnera pas."
+
+#: sf-pfcp-admin.inc.php:133
+msgid "Items per page:"
+msgstr "Itemps par page :"
+
+#: sf-pfcp-admin.inc.php:134
+msgid "Empty or &laquo;0&raquo; means &laquo;same as default&raquo; (default value is set in Settings > %1$sReading%2$s), &laquo;-1&raquo; means &laquo;display all in the same page&raquo;."
+msgstr "Vide ou &laquo;0&raquo; signifie &laquo;valeur par défaut&raquo; (la valeur par défaut est réglée dans Réglages > %1$sLecture%2$s), &laquo;-1&raquo; signifie &laquo;montrer tout dans la même page&raquo;."
+
+#: sf-pfcp-admin.inc.php:136
+msgid "Choose how to display your listing page. In most cases, keep it empty and the general template (index.php) will be used. If you have a specific template for your front page or home page (front-page.php, home.php), you can choose &laquo;Home Page&raquo;, especially if you actually display this page as your website's front page."
+msgstr "Choisissez comment est affichée votre page de listing. Dans la plupart des cas, laissez ce champs vide et le template général (index.php) sera utilisé. Si vous avez un template spécifique pour votre page d'accueil ou votre page d'articles (front-page.php, home.php), vous pouvez choisir &laquo;Page d'accueil (page d'articles)&raquo;, surtout si vous affichez cette page en page d'accueil de votre site."
+
+#: sf-pfcp-admin.inc.php:137
+msgid "Not enough help here? Grab some on %1$smy blog%2$s [french]."
+msgstr "Pas assez d'infos ici? Allez en chercher sur %1$smon blog%2$s."
+
